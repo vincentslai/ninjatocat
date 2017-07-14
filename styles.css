@@ -1,0 +1,13 @@
+body {
+	width: 800px;
+	margin: 0 auto;
+	font-family: 'Luckiest Guy', cursive;
+}
+
+img {
+	display: block;
+}
+
+h1 {
+	text-align: center;
+}
